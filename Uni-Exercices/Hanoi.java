@@ -1,5 +1,6 @@
 /* 
  * Implementation of Hanoi Algorithm.
+ * A Processing animation of this algorithm was done as well, it can be found on the Processing folder.
  */
 
 import edu.princeton.cs.algs4.StdIn;
